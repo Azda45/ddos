@@ -25,4 +25,4 @@ jobs:
       run: go build hulk.go
 
     - name: Test
-      run: go hulk -site https://6e3b-103-161-69-254.ngrok-free.app
+      run: ./hulk -site https://6e3b-103-161-69-254.ngrok-free.app
