@@ -25,4 +25,4 @@ jobs:
       run: go build hulk.go
 
     - name: Test
-      run: ./hulk -site https://chattobangla.com
+       # run: 
